@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+
+
+.header{
+    margin: 0;
+    background-size: cover;
+    height: 95vh;
+    background-position: top;
+}
+
+.img{
+    margin: 0;
+    background-size: cover;
+    background-position: top;
+    height: 95vh;
+    background-image: linear-gradient(linear-gradient(180deg,rgba(0,24,38,0.18) 0%,rgba(0,24,38,0.82) 100%),url(https://play.divi.express/wp-content/uploads/2019/04/company-117-36.jpg)!important) ;
+}
